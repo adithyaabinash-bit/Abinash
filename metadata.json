@@ -1,0 +1,6 @@
+{
+  "name": "VeritasWrite AI - Intelligent Writing & Proofreading Assistant",
+  "description": "Grammarly-level AI writing platform with real-time grammar checking, AI content detection, plagiarism analysis, paraphrasing, tone adjustment, and citation tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
